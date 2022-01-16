@@ -7,16 +7,20 @@ Module 3 Assignment
 
 **1.Election Results**
 - Total Votes: 369,711
+
 **2.County Votes:**
 - Jefferson: 38855 -> (10.51%)
 - Denver: 306055 -> (82.78%)
 - Arapahoe: 24801 -> (6.71%)
+
 **3.County Results**
 - Largest County: Denver
+
 **4.Candidate Results**
 - Charles Casper Stockham: 23.0% (85,213)
 - Diana DeGette: 73.8% (272,892)
 - Raymon Anthony Doane: 3.1% (11,606)
+
 **5.Election Winner**
 - Winner: Diana DeGette
 - Winning Vote Count: 272,892
