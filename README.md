@@ -26,3 +26,5 @@ Module 3 Assignment
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Overall, the code was able to produce the desired results without any mishaps based off the compiled data provided. Thus, the election commision may take into consiration in implementing this code for future Election-Audits if we were to modify this code fo repeated usage. We would have to modify the code to pull data from mulitple sources of compiled closed polls in ".csv" files. From there, we would modify the output to generate multiple ".txt" files to store the data for each source provided.
